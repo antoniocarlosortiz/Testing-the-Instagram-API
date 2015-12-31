@@ -1,4 +1,5 @@
 # Testing the Instagram API
+####*Updated: Jan 8, 2014*
 
 For my new project, I created an automatic Instagram photo liker!. It does what you think it does; it likes photos on instagram so you don’t have to do it yourself. The script is tremendously useful if you have an objective to expand the market reach of your account.
 
